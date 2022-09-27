@@ -5,7 +5,10 @@
 
 # - Aiffelthon Project(22/08/06 ~ 22/09/28)
 ### 1. Project Information
-![img](https://i.ibb.co/C7Gyc9L/190-7.gif)
+![img](https://i.ibb.co/nBfCd0R/6.gif)
+![img](https://i.ibb.co/fHxPm41/7.gif)
+![img](https://i.ibb.co/vkFMNjc/2022-09-26-04-31-21-123.gif)
+![img](https://i.ibb.co/2yNcQ81/2022-09-26-04-32-16-152.gif)
 - 사진을 이용한 추억으로 남을만한 정서적인 라인드로잉 & 캐리커처 생성
 - 사람이 그린 듯한 퀄리티를 최대한 비슷하게 구현하는게 목표
 
