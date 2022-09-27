@@ -7,15 +7,15 @@
 ### 1. Project Information
 - 사진을 이용한 추억으로 남을만한 정서적인 라인드로잉 & 캐리커처 생성
 - 사람이 그린 듯한 퀄리티를 최대한 비슷하게 구현하는게 목표
+![제목 없음](https://user-images.githubusercontent.com/100528803/192610662-e8324877-5e9f-42f3-84f3-65ee5bae1d79.png)
 
 ### 2. Team member
 - 김예슬, 오성균, 유재연, 진샛별
 
 -----
 
-### 3. Pipeline
-
-
+### 3. Project pipeline
+![20220928034445](https://user-images.githubusercontent.com/100528803/192610325-081184bc-f637-4ea9-935d-ceddd708d7cf.png)
 
 ### 4. Used Dataset
 #### whitebox-cartoonization
@@ -32,6 +32,7 @@
 -----
 
 ### 5. Timeline
+![20220928034622](https://user-images.githubusercontent.com/100528803/192610561-69965ac8-cb24-4910-bb05-aac6348517fc.png)
 
 -----
 
