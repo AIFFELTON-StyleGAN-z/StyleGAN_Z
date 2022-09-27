@@ -5,9 +5,9 @@
 
 # - Aiffelthon Project(22/08/06 ~ 22/09/28)
 ### 1. Project Information
+![img](https://i.ibb.co/C7Gyc9L/190-7.gif)
 - 사진을 이용한 추억으로 남을만한 정서적인 라인드로잉 & 캐리커처 생성
 - 사람이 그린 듯한 퀄리티를 최대한 비슷하게 구현하는게 목표
-![제목 없음](https://user-images.githubusercontent.com/100528803/192610662-e8324877-5e9f-42f3-84f3-65ee5bae1d79.png)
 
 ### 2. Team member
 - 김예슬, 오성균, 유재연, 진샛별
