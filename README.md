@@ -1,7 +1,7 @@
+-----
+
 # 👁️‍🗨️StyleGAN誌
 ![logo](https://user-images.githubusercontent.com/100528803/192602362-f3ad4763-1ccd-45d6-91ca-144455a38c6e.png)
-
------
 
 # - Aiffelthon Project(22/08/06 ~ 22/09/28)
 
@@ -12,6 +12,7 @@
 ### 2. Team member
 - 김예슬, 오성균, 유재연, 진샛별
 
+-----
 
 ### 3. Pipeline
 
@@ -29,7 +30,11 @@
 - CelebA dataset 5,000
 - Line drawing crawling 5,000 
 
+-----
+
 ### 5. Timeline
+
+-----
 
 ### 6. Reference
 - [Pytorch](https://github.com/pytorch/pytorch)
@@ -44,3 +49,5 @@
 * [Landscape dataset](https://github.com/mahmoudnafifi/HistoGAN)
 * [anime face dataset](https://github.com/bchao1/Anime-Face-Dataset)
 * [wiki-art dataset](https://github.com/cs-chan/ArtGAN/blob/master/WikiArt%20Dataset/README.md)
+
+-----
